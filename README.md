@@ -20,17 +20,16 @@ Tableau Public
 
 # Key Visualization
 
+<div align = "justify">
+    
 _**1) Active Employees Overview:**_
-
 Displays the total number of active employees.
 Separates hired and terminated employees with corresponding trends over time.
 
 _**2) Departmental Insights:**_
-
 Visualizes the distribution of hired and terminated employees across various departments, including Operations, Sales, Customer Service, IT, Marketing, Finance, and HR.
 
 _**3) Geographic Distribution:**_
-
 Shows the employee distribution across different locations, highlighting the proportion of employees in the HQ vs. branch offices.
 
 _**4) Demographics Analysis:**_
@@ -40,11 +39,9 @@ _**4) Demographics Analysis:**_
 **> Education and Age**: A scatter plot represents the education levels (High School, Bachelor, Master, PhD) in conjunction with age brackets (<25, 25-34, 35-44, 45-54, 55+).
 
 _**5) Performance and Education Correlation:**_
-
 Provides insights into employee performance ratings (Excellent, Good, Satisfactory, Needs Improvement) across different educational qualifications.
 
 _**6) Income Analysis:**_
-
 Displays the salary distribution based on education levels and gender.
 An "Age and Salary" scatter plot shows salary trends across different ages and positions (e.g., HR Manager, IT Manager, Finance Manager).
 
@@ -57,6 +54,8 @@ An "Age and Salary" scatter plot shows salary trends across different ages and p
 **3) Tooltips:** Hover over visual elements such as charts and graphs to see detailed numerical and contextual information.
 
 **4) Export Options:** You can export the dashboard insights in PDF or other formats for reporting purposes.
+
+</div>
 
 # Dashboard
 
